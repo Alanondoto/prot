@@ -1,0 +1,83 @@
+.menuWrapper {
+    height: 810px;
+}
+.menuBg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 980px;
+    height: inherit;
+    margin: 0 auto;
+    background: url('../../assets/bg/menuBg.png');
+}
+.miniMenuBg {
+    width: 699px;
+    height: 660px;
+    background: url('../../assets/bg/miniMenuBg.png');
+}
+.firstWrapper {
+    width: 366px;
+    height: 112px;
+    margin: 57px auto 0;
+}
+.menuTitle {
+    text-align: center;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    color: #423F45;
+}
+.sliderWrapper1 {
+    margin-top: 32px;
+}
+.secondtWrapper {
+    width: 531px;
+    height: 114px;
+    margin: 53px auto 0;
+}
+.btnWrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 541px;
+    height: 45px;
+    margin: 72px auto 0;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+    width: 271px;
+    background: #FFD748;
+    border-radius: 25px;
+    font-weight: 700;
+    font-size: 32px;
+    color: #423F45;
+}
+.btn2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+    width: 234px;
+    background: #FFD748;
+    border-radius: 25px;
+    font-weight: 700;
+    font-size: 32px;
+    color: #423F45;
+}
+.playBtn {
+    margin: 92px auto 0;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 260px;
+    height: 60px;
+    background: #38DF7A;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
