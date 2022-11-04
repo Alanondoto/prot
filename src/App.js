@@ -1,9 +1,9 @@
 import './App.css';
-import MainMenu from './components/MainMenu/MainMenu';
+import MainMenu from './components/MainMenu/MainMenu.jsx';
 
-function App() {
+function App(props) {
   return (
-    <MainMenu />
+    <MainMenu store={props.store.state.mainMenuPage} />
   )
 }
 

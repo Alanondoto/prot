@@ -70,4 +70,5 @@ const MainMenu = (props) => {
     )
 }
 
+// test
 export default MainMenu
