@@ -70,5 +70,5 @@ const MainMenu = (props) => {
     )
 }
 
-// test
+// test 2
 export default MainMenu
